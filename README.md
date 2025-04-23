@@ -32,7 +32,7 @@ Usage
 
 The project's code is contained within a Jupyter Notebook, guiding you through the entire process from data loading to visualization.
 
-1. Follow the [Installation](#installation) steps and ensure the required libraries are installed.
+1. Follow the [Installation] steps and ensure the required libraries are installed.
 2. Navigate to the project's main directory in your terminal.
 3. Start the Jupyter Notebook server by running: `jupyter notebook`
 4. Your web browser will open a new tab displaying the Jupyter Notebook interface.
